@@ -10,5 +10,3 @@ let tasks = [
 ];
 
 // Your code here
-let tareaCompleta = tasks.filter(tarea => tarea.done === true);
-console.log(tareaCompleta)
